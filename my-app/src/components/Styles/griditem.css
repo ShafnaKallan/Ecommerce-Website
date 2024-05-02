@@ -1,0 +1,37 @@
+body{
+    background-color: white;
+}
+.colmn1{
+    margin-top: 20px;
+}
+.colmn1name{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 30px;
+}
+.section4{
+    margin-left: 20px;
+    margin-top: 100px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.section4 div{
+    float: left;
+}
+.colmn2 img{
+height: 280px;
+width: 450px;
+}
+.colmn2{
+    margin-left: 560px;
+    margin-top: -560PX;
+    position: absolute;
+
+}
+.gridname{
+    position: absolute;
+margin-top: -250px;
+margin-left: 30px;
+}

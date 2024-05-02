@@ -1,0 +1,46 @@
+.section2{
+    margin-top: 150px;
+    background-color: white;
+}
+.featured{
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(132, 93, 19);
+}
+.sliderr{
+    margin-top: 100px;
+  
+}
+.slidediv{
+   height: 450px;
+   width: 300px;
+   
+}
+.desc1 button{
+    height: 35px;
+    width: 100px;
+    border: none;
+    background-color: orange;
+}
+.section3 p{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.section3{
+    background-image: url('https://images6.alphacoders.com/372/372496.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 800px;
+   padding-top: 80px;
+}
+.btn1{
+    display:flex;
+    justify-content: center;
+}
+.btn1 :hover{
+    background-color: orange;
+}

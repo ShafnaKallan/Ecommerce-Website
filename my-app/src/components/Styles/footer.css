@@ -1,0 +1,49 @@
+.final{
+    padding-top: 140px;
+margin-left: -100px;
+}
+.contact{
+    text-align: center;
+}
+.locator{
+    text-align: center;
+margin-left: -50px;
+}
+
+.button3{
+        width: 180px;
+        height: 50px;
+        background-color: black;
+        color: rgb(255, 255, 255);
+        border: 1px solid white;
+        font-weight: bold;
+    
+    }
+.button3:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+.footer{
+    margin-top: 140px;
+    height: 300px;
+    background-color: rgb(187, 187, 187);
+}
+.legal{
+    color: white;
+    font-size: small;
+    padding-top: 90px;
+}
+.legal h5{
+    font-size:16px;
+}
+.legal ul{
+    float: left;
+}
+.legal li {
+    list-style-type: none;
+    color: rgb(0, 0, 0);
+}
+.legal a{
+    color: white;
+}
